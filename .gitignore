@@ -1,0 +1,17 @@
+.*/
+AndroidStudioProjects/
+Downloads/
+Music/
+Applications/
+Dropbox/
+Pictures/
+Desktop/
+Library/
+Public/
+Documents/
+Movies/
+installer.sh
+!.vim/
+.bash_history
+.CFUserTextEncoding
+.viminfo
